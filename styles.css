@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+    background-color: rgb(192, 125, 136);
+}
+
+#H1 {
+    font-family: cursive;
+    font-size: 45px;
+    color: powderblue;
+}
+
+.container, .formgroup, .tomdiv {
+    max-width: 500px;
+    padding: 10px;
+    background-color: lightpink;
+    
+
+}
+
+#button1 {
+    max-width: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: powderblue;
+
+}
